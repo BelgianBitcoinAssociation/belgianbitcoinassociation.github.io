@@ -1,0 +1,150 @@
+body {
+  padding-top: 50px;
+  background: url("/assets/img/little_pluses_warm.png");
+}
+.starter-template {
+  padding: 40px 15px;
+}
+
+.fa-external-link {
+  color: #999;
+}
+.fa-external-link:hover {
+  color: white;
+}
+
+.logo{
+  margin-left: 0;
+  margin-right: 25px;
+  /*padding-top: 15px;	
+  padding-left: 45px;
+  padding-bottom: 10px;*/
+  width: 300px;
+  height: auto;
+  /*transform:rotate(180deg);
+  -ms-transform:rotate(180deg); /* IE 9 */
+  /*-webkit-transform:rotate(180deg); /* Safari and Chrome */	
+}
+
+.lightbgd{    
+
+  background: url("/assets/img/little_pluses_warm_light.png");	
+  /*background-color: white;*/
+}
+
+.footer {
+  color: #666;
+  height: 238px;
+  background: url("/assets/img/little_pluses_warm.png");
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.footer .container {
+  padding-top: 30px;
+/*  background: url("/assets/img/black_denim.png");	*/
+}
+.navbar-inverse .navbar-nav>li:active {
+  color: white;
+}
+
+.navbar-inverse{
+  background: url("/assets/img/black_denim.png");	
+}
+
+.btn-pad{
+  padding-left: 15px;
+}
+
+.polaroid{
+  float: none;
+  margin: 0 auto;
+  width: 350px;
+  height: auto;
+  border: solid 1px #777;
+  padding: 10px;
+  background-color: white;
+  font-size: 14px;
+}
+
+.smallimg{
+  float: left;
+  width: 155px;
+  height: auto;
+  padding-top: 10px;
+  padding-right: 10px;
+}
+
+.top-buffer { 
+  margin-top:20px; 
+}
+
+.lead {
+  font-size: 23px;
+
+}
+
+.norm{
+  font-size: 18px;
+}
+
+.minHeight {
+  min-height: 900px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
+
+#contactTable {
+  margin: 20px;
+}
+
+#contactTable tr>td {
+  padding: 10px;
+  vertical-align: top;
+}
+
+#contactTable tr>td.head {
+  font-weight: bold;
+}
+
+#membershipTable {
+  margin: 20px;
+  font-size: 18px;
+}
+#membershipTable tr>th {
+  padding: 10px;
+}
+#membershipTable tr>td {
+  padding: 10px;
+  vertical-align: top;
+}
+#membershipTable tr>td.head {
+  font-weight: bold;
+}
+
+.credit a {
+  color: rgb(102, 102, 102);
+}
+.credit a:hover {
+  color: rgb(87, 87, 87);
+}
+
+/*
+@media screen and (min-width: 480px) {
+  .minHeight {
+    min-height: 900px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+  }
+
+  .footer {
+    color: #666;
+    height: 238px;
+    background: url("/assets/img/little_pluses_warm.png");
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+  }
+}*/

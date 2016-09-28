@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+
+  <head>
+    <!-- Technical Meta data -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="revisit-after" content="30 Days">
+    <meta name="author" content="Belgian Bitcoin Association">
+    <meta name="copyright" content="Creative Commons Non-commercial Attribution Licence">
+    <meta name="distribution" content="Global">        
+
+    <!-- TODO -->
+    <link rel="shortcut icon" href="assets/ico/favicon.png">    
+    <!-- TODO -->
+
+    <!-- Site Information Meta data -->
+    <meta name="keywords" content="belgian, belgium, bitcoin, association, belgië, belgique, foundation, bba">
+
+    <meta name="description" content="The Belgian Bitcoin Association is here to support Bitcoin users in Belgium. It provides support in the form of promotion, education, legal, accounting and technical help. It also represents the members interests to government bodies at the national and international level.">
+
+    <!-- Google Verification -->
+    <meta name="google-site-verification" content="4Go7I76ZqMjGh4cVAYgeTF_PFjDB5RpTWLfpoyq_b4k" />
+
+    <title>
+      Belgian Bitcoin Association.
+    </title>
+
+    <!-- BOOTSTRAP + CUSTOM CSS START-->
+
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- BOOTSTRAP + CUSTOM CSS END-->
+
+
+    <!-- ANGULAR START -->
+
+    <script type="text/javascript" src="js/angular.js"></script>
+    <script type="text/javascript" src="js/angular-route.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+
+    <!-- ANGULAR END   -->
+
+
+  </head>
+
+  <body>
+    <div class="navbar navbar-inverse navbar-fixed-top" ng-controller="pageController">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Belgian Bitcoin Association</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li ng-class="{ active: isActive('/home') }">
+            <a href="#/home" >Home</a>
+            </li>
+            <li ng-class="{ active: isActive('/about') }">
+            <a href="#/about" >About us</a>
+            </li>
+            <li ng-class="{ active: isActive('/members') }">
+            <a href="#/members">Members</a>
+            </li>
+            <li ng-class="{ active: isActive('/press') }">
+            <a href="#/press">Press</a>
+            </li>
+            <li>
+            <a href="/news">News</a>
+            </li>
+            <li>
+            <a href="http://meetups.bitcoinassociation.be/"><i class="fa fa-external-link"> Meet!</i></a>
+            </li>
+            <!-- <li>
+            <div class="btn-group btn-group-xs navbar-btn btn-pad">
+              <a href="#" class="btn navbar-btn btn-default">NL</a>
+              <a href="#" class="btn navbar-btn btn-default">FR</a>
+              <a href="#" class="btn navbar-btn btn-default">EN</a>
+            </div>
+            </li> -->
+          </ul>
+        </div>
+        <!--/.nav-collapse -->
+      </div>
+    </div>
+    <div id="page" ng-view>
+
+    </div>
+
+    <!-- Footer -->
+
+    <div class="footer">
+      <div class="container">
+        <div class="row" >
+          <div class="col-md-2" ></div>
+          <div class="col-md-3" >
+            <h4>Useful Links</h4>  
+            <a href="http://bitcoin.org/en/faq">About Bitcoins</a>
+            <br/>
+            <a href="http://www.coindesk.com/news/">Coindesk</a>
+            <br/>
+            <a href="http://www.reddit.com/r/Bitcoin/">Bitcoin sub-Reddit</a>
+            <br/>
+            <a href="http://www.reddit.com/r/BitcoinBE/">Belgian Bitcoin sub-Reddit</a>
+            <br/>
+            <a href="http://letstalkbitcoin.com/">Let's Talk Bitcoin</a>
+          </div>
+
+          <div class="col-md-3" >
+            <h4>Bitcoin Wallets</h4>
+            <a href="http://bitcoin.org/en/choose-your-wallet">Choose your wallet</a>
+            <br/>
+            <a href="https://multibit.org/">Multibit</a>
+            <br/>
+            <a href="https://electrum.org/">Electrum</a>
+            <br/>
+            <a href="https://bitcoinarmory.com/">Armory</a>
+            <br/>
+            <a href="http://bitcoin.org/en/download">Bitcoin Core Wallet (experts!)</a>
+          </div>
+
+          <div class="col-md-3" >
+            <h4>Exchanges</h4>
+            <a href="https://www.bitstamp.net/">Bitstamp</a>
+            <br/>
+            <a href="https://bitplaats.be/">Bitplaats</a>
+          </div>
+
+        </div>
+        <br/>
+        <br/>
+        <p class="pull-left muted credit"><a href="http://www.bitcoinassociation.be/">Belgian Bitcoin Association 2014</a></p>
+        <p class="pull-right muted credit"><a href="https://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Non-commercial Attribution Licence</a></p>
+      </div>
+    </div>
+
+    <!-- Page End -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+    <!--Google Analytics START-->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-47110775-1', 'bitcoinassociation.be');
+      ga('send', 'pageview');
+    </script>
+    <!--Google Analytics END-->
+
+
+  </body>
+
+</html>

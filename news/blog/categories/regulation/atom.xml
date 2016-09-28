@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Regulation | Belgian Bitcoin Association]]></title>
+  <link href="http://www.bitcoinassociation.be/news//blog/categories/regulation/atom.xml" rel="self"/>
+  <link href="http://www.bitcoinassociation.be/news//"/>
+  <updated>2014-11-16T16:21:35+01:00</updated>
+  <id>http://www.bitcoinassociation.be/news//</id>
+  <author>
+    <name><![CDATA[Belgian Bitcoin Association]]></name>
+    <email><![CDATA[info@bitcoinassociation.be]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Belgian Regulators Issue Joint Bitcoin Warning]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/01/16/belgian-regulators-issue-joint-bitcoin-warning/"/>
+    <updated>2014-01-16T23:00:18+01:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/01/16/belgian-regulators-issue-joint-bitcoin-warning</id>
+    <content type="html"><![CDATA[<p>The National Bank of Belgium (NBB) and the Belgian Financial Services and Markets Authority (FSMA) have issued a statement regarding bitcoin and it&rsquo;s volatility.i</p>
+
+<p><a href="http://www.nbb.be/doc/ts/Enterprise/Press/2014/cp140114En.pdF">Download PDF</a></p>
+
+<p>Related articles on CoinDesk:</p>
+
+<ul>
+<li><a href="http://www.coindesk.com/belgian-regulators-issue-joint-bitcoin-warning/">Belgian Regulators Issue Joint Bitcoin Warning</a></li>
+<li><a href="http://www.coindesk.com/belgium-central-bank-remains-positive-about-bitcoin-unofficially/">Belgium Central Bank Remains Positive About Bitcoin, Unofficially</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

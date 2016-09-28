@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: In the press | Belgian Bitcoin Association]]></title>
+  <link href="http://www.bitcoinassociation.be/news//blog/categories/in-the-press/atom.xml" rel="self"/>
+  <link href="http://www.bitcoinassociation.be/news//"/>
+  <updated>2014-11-16T16:21:35+01:00</updated>
+  <id>http://www.bitcoinassociation.be/news//</id>
+  <author>
+    <name><![CDATA[Belgian Bitcoin Association]]></name>
+    <email><![CDATA[info@bitcoinassociation.be]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Association mentioned on CoinDesk]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/03/27/association-mentioned-on-coindesk/"/>
+    <updated>2014-03-27T23:08:30+01:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/03/27/association-mentioned-on-coindesk</id>
+    <content type="html"><![CDATA[<p>The Belgian Bitcoin Association was mentioned in the recent <a href="http://www.coindesk.com/swarm-intelligence-event-first-science-conference-accept-bitcoin/">CoinDesk article</a> regarding the scientific conference organized at the ULB. In the article, <em>Arne Brutschy</em> explains the reason why the organizers decided to accept bitcoin for conference registrations.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[L'Echo extended feature on bitcoin]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/03/01/lecho-extended-feature-on-bitcoin/"/>
+    <updated>2014-03-01T22:26:33+01:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/03/01/lecho-extended-feature-on-bitcoin</id>
+    <content type="html"><![CDATA[<p><a href="http://www.lecho.be/r/t/1/id/9473272">Extended feature in L'Echo</a> about usage of bitcoin in Belgium and abroad. <em>Jérémie Dubois-Lacoste</em> and <em>Jean Wallemacq</em> interviewed. The bitcoin protocol is discussed as well.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The MtGox crisis]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/02/26/the-mtgox-crisis/"/>
+    <updated>2014-02-26T22:24:42+01:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/02/26/the-mtgox-crisis</id>
+    <content type="html"><![CDATA[<p><a href="http://www.tijd.be/nieuws/archief/Grootste_bitcoinbeurs_verdwijnt_in_het_niets.9471436-1615.art?highlight=bitcoin">De Tijd writes</a> about the MtGox crisis. <em>Thomas Spaas</em> answers a few questions.</p>
+
+<p><a href="http://www.lecho.be/r/t/1/id/9471513">L'Echo writes</a> about the MtGox crisis and the intact confidence of the Belgian Bitcoin community. <em>Jean Wallemacq</em> voices the stance of the Belgian Bitcoin Association.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Thomas Spaas at Flemish Investor Federation]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/02/24/thomas-spaas-at-flemish-investor-federation/"/>
+    <updated>2014-02-24T22:14:43+01:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/02/24/thomas-spaas-at-flemish-investor-federation</id>
+    <content type="html"><![CDATA[<p>Thomas Spaas talks about Bitcoin myths, reality, hurdles &amp; opportunities at <a href="http://www.vfb.be/Vfb/Trefpunt/28951">Flemish Investor Federation</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Thomas Spaas interview on Dogecoin]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/01/28/thomas-spaas-interview-on-dogecoin/"/>
+    <updated>2014-01-28T22:09:35+01:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/01/28/thomas-spaas-interview-on-dogecoin</id>
+    <content type="html"><![CDATA[<p>Interview of Thomas Spaas on dogecoin at the radio 1 show <a href="http://www.radio1.be/programmas/de-ochtend">De ochtend</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

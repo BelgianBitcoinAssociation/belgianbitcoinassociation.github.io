@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Events | Belgian Bitcoin Association]]></title>
+  <link href="http://www.bitcoinassociation.be/news//blog/categories/events/atom.xml" rel="self"/>
+  <link href="http://www.bitcoinassociation.be/news//"/>
+  <updated>2014-11-16T16:21:35+01:00</updated>
+  <id>http://www.bitcoinassociation.be/news//</id>
+  <author>
+    <name><![CDATA[Belgian Bitcoin Association]]></name>
+    <email><![CDATA[info@bitcoinassociation.be]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Bitcoin 2 Business Congress Brussels taking place on 16-17 October]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/09/15/bitcoin-2-business-congress-brussels-taking-place-on-16-17-october/"/>
+    <updated>2014-09-15T17:16:43+02:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/09/15/bitcoin-2-business-congress-brussels-taking-place-on-16-17-october</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/btc2b_logo.png" width="720" height="200"></p>
+
+<p>Brussels will host one of the major Bitcoin events in Europe. Bitcoin 2 Business Congress will focus on the Start-up show, B2B meetings, debates, speeches by well-known speakers such as Matthew Roszak, Vitalik Buterin, Jacob Hansen, Brett Stapper and many others. Get more info at the website <a href="http://www.btc2b.com">www.btc2b.com</a> or contact <a href="mailto:congress@btc2b.com">congress@btc2b.com</a> in case of any questions.</p>
+
+<p>There is also discount code for BBA members, contact us or <a href="mailto:congress@btc2b.com">congress@btc2b.com</a> for more info.</p>
+]]></content>
+  </entry>
+  
+</feed>

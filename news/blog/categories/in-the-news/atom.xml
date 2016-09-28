@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: In the news | Belgian Bitcoin Association]]></title>
+  <link href="http://www.bitcoinassociation.be/news//blog/categories/in-the-news/atom.xml" rel="self"/>
+  <link href="http://www.bitcoinassociation.be/news//"/>
+  <updated>2014-11-16T16:21:35+01:00</updated>
+  <id>http://www.bitcoinassociation.be/news//</id>
+  <author>
+    <name><![CDATA[Belgian Bitcoin Association]]></name>
+    <email><![CDATA[info@bitcoinassociation.be]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Thomas Spaas' TEDx talk in Hasselt]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/04/01/thomas-spaas-tedx-talk-in-hasselt/"/>
+    <updated>2014-04-01T11:32:10+02:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/04/01/thomas-spaas-tedx-talk-in-hasselt</id>
+    <content type="html"><![CDATA[<p>Thomas Spaas gave a Tedx talk on tedxuhasselt, about the relation between bitcoin and human rights (video online soon)</p>
+]]></content>
+  </entry>
+  
+</feed>

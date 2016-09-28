@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: News | Belgian Bitcoin Association]]></title>
+  <link href="http://www.bitcoinassociation.be/news//blog/categories/news/atom.xml" rel="self"/>
+  <link href="http://www.bitcoinassociation.be/news//"/>
+  <updated>2014-11-16T16:21:35+01:00</updated>
+  <id>http://www.bitcoinassociation.be/news//</id>
+  <author>
+    <name><![CDATA[Belgian Bitcoin Association]]></name>
+    <email><![CDATA[info@bitcoinassociation.be]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Our new blog]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/03/28/new-blog/"/>
+    <updated>2014-03-28T11:21:20+01:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/03/28/new-blog</id>
+    <content type="html"><![CDATA[<p>So, this is our new blog. We will be re-posting all older news
+here, backdated. More to come!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Official registration]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/02/13/official-registration/"/>
+    <updated>2014-02-13T22:10:47+01:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/02/13/official-registration</id>
+    <content type="html"><![CDATA[<p>The <a href="http://www.bitcoinassociation.be/">Belgian Bitcoin Association</a> is now officially registered as an ASBL / VZW.</p>
+
+<p>Official charter of the association:</p>
+
+<ul>
+<li><a href="http://www.bitcoinassociation.be/files/BBA-Charter-NL-20140213.pdf">Nederlandstalige versie</a></li>
+<li><a href="http://www.bitcoinassociation.be/files/BBA-Charter-FR-20140213.pdf">Version française</a></li>
+<li><a href="http://www.bitcoinassociation.be/files/BBA-Charter-EN-20140213.pdf">English version</a></li>
+</ul>
+
+
+<p>Our registration number: 0546.540.263</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Belgian Regulators Issue Joint Bitcoin Warning]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/01/16/belgian-regulators-issue-joint-bitcoin-warning/"/>
+    <updated>2014-01-16T23:00:18+01:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/01/16/belgian-regulators-issue-joint-bitcoin-warning</id>
+    <content type="html"><![CDATA[<p>The National Bank of Belgium (NBB) and the Belgian Financial Services and Markets Authority (FSMA) have issued a statement regarding bitcoin and it&rsquo;s volatility.i</p>
+
+<p><a href="http://www.nbb.be/doc/ts/Enterprise/Press/2014/cp140114En.pdF">Download PDF</a></p>
+
+<p>Related articles on CoinDesk:</p>
+
+<ul>
+<li><a href="http://www.coindesk.com/belgian-regulators-issue-joint-bitcoin-warning/">Belgian Regulators Issue Joint Bitcoin Warning</a></li>
+<li><a href="http://www.coindesk.com/belgium-central-bank-remains-positive-about-bitcoin-unofficially/">Belgium Central Bank Remains Positive About Bitcoin, Unofficially</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Foundation of the association]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2013/11/20/foundation-of-the-association/"/>
+    <updated>2013-11-20T21:31:42+01:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2013/11/20/foundation-of-the-association</id>
+    <content type="html"><![CDATA[<p>Today, the <em>Belgian Bitcoin Association</em> was officialy founded!</p>
+
+<p>Here&rsquo;s a short summary of the inauguration meeting.</p>
+
+<ol>
+<li>We discussed various points of the draft charter and agreed to a final version. All decisions have been voted on and accepted
+unanimously. Thomas is currently preparing the English version, which will then be translated into Dutch and French.</li>
+<li>We elected the director for a 1-year term. As Filip already said, the directors are Filip, Chris, Jérémie, Jean, Thomas and me.</li>
+</ol>
+
+
+<p>What next? We will translate the charter and send it to all of you. Furthermore, Thomas will file the association&rsquo;s papers with the state, which will be the actual inauguration of the association. We will send the full minutes of the meeting during the next days.</p>
+
+<p>The board will meet soon to discuss the next steps &ndash; for now mostly technicalities such as organizing how to communicate, website etc.</p>
+]]></content>
+  </entry>
+  
+</feed>

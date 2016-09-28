@@ -1,0 +1,115 @@
+body {
+  padding-top: 50px;
+  background: url("/images/little_pluses_warm.png");
+}
+.starter-template {
+  padding: 40px 15px;
+}
+
+.logo{
+  margin-left: 0;
+  margin-right: 25px;
+  /*padding-top: 15px;	
+  padding-left: 45px;
+  padding-bottom: 10px;*/
+  width: 300px;
+  height: auto;
+  /*transform:rotate(180deg);
+  -ms-transform:rotate(180deg); /* IE 9 */
+  /*-webkit-transform:rotate(180deg); /* Safari and Chrome */	
+}
+
+.lightbgd{    
+
+  background: url("/images/little_pluses_warm_light.png");	
+  /*background-color: white;*/
+}
+
+.footer {
+  color: #666;
+  height: 238px;
+  background: url("/images/little_pluses_warm.png");
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 30px;
+}
+
+.navbar-inverse .navbar-nav>li:active {
+  color: white;
+}
+
+.navbar-inverse{
+  background: url("/images/black_denim.png");	
+}
+
+.btn-pad{
+  padding-left: 15px;
+}
+
+.polaroid{
+  float: none;
+  margin: 0 auto;
+  width: 258px;
+  height: auto;
+  border: solid 1px;
+  padding: 10px;
+  background-color: white;
+}
+
+.smallimg{
+  width: 100%;
+  height: auto;
+}
+
+.top-buffer { 
+  margin-top:20px; 
+}
+
+.lead {
+  font-size: 23px;
+
+}
+
+.norm{
+  font-size: 18px;
+
+}
+
+.minHeight {
+  min-height: 900px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
+
+#contactTable {
+  margin: 20px;
+}
+
+#contactTable tr>td {
+  padding: 10px;
+  vertical-align: top;
+}
+
+#contactTable tr>td.head {
+  font-weight: bold;
+}
+
+
+@media screen and (min-width: 480px) {
+  .minHeight {
+    min-height: 900px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+  }
+
+  .footer {
+    color: #666;
+    height: 238px;
+    background: url("/images/little_pluses_warm.png");
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+  }
+}

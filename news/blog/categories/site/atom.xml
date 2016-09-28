@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Site | Belgian Bitcoin Association]]></title>
+  <link href="http://www.bitcoinassociation.be/news//blog/categories/site/atom.xml" rel="self"/>
+  <link href="http://www.bitcoinassociation.be/news//"/>
+  <updated>2014-03-29T23:10:42+01:00</updated>
+  <id>http://www.bitcoinassociation.be/news//</id>
+  <author>
+    <name><![CDATA[Belgian Bitcoin Association]]></name>
+    <email><![CDATA[info@bitcoinassociation.be]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Our new blog!]]></title>
+    <link href="http://www.bitcoinassociation.be/news//blog/2014/03/28/new-blog/"/>
+    <updated>2014-03-28T11:21:20+01:00</updated>
+    <id>http://www.bitcoinassociation.be/news//blog/2014/03/28/new-blog</id>
+    <content type="html"><![CDATA[<p>So, this is our new blog. We will be re-posting all older news
+here, backdated. More to come!</p>
+]]></content>
+  </entry>
+  
+</feed>
